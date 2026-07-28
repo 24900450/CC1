@@ -36,10 +36,23 @@ This experiment involves creating an AWS account, configuring security settings 
 - Use the IAM user for daily AWS operations.
 - Reserve the root user account for administrative and account-level tasks only.
 
-## OUTPUT
-<img width="1917" height="930" alt="image" src="https://github.com/user-attachments/assets/47728d63-44c2-4d60-9c6d-662f5db8b160" />
+## OUTPUTS
+### AWS Management Console – Root User Login
+<img width="1920" height="1080" alt="Screenshot 2026-07-28 091907" src="https://github.com/user-attachments/assets/67cde911-09b0-425f-83e5-6fa7fa2c6844" />
 
-<img width="1916" height="922" alt="image" src="https://github.com/user-attachments/assets/d7d9bb7f-e113-44c9-bbb5-a41117cf8ee5" />
+### IAM User Created
+<img width="1920" height="1080" alt="Screenshot 2026-07-28 092028" src="https://github.com/user-attachments/assets/49826a15-1a46-4551-944d-0f30ba9b930f" />
+### IAM User Permissions
+<img width="1920" height="1080" alt="Screenshot 2026-07-28 092249" src="https://github.com/user-attachments/assets/49c941a6-2f26-4c60-8440-91c2fd68a8f7" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-28 092344" src="https://github.com/user-attachments/assets/905eacd6-d5c6-442c-ae51-e503a60feb33" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-28 092453" src="https://github.com/user-attachments/assets/6a4ae1aa-4e40-4111-aa0a-39991524f1aa" />
+
+### IAM User Successfully Logged In
+<img width="1920" height="1080" alt="Screenshot 2026-07-28 093014" src="https://github.com/user-attachments/assets/d3f05d5d-7ebd-40dc-8e99-8795909117de" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-28 093151" src="https://github.com/user-attachments/assets/350d9ae8-792e-4a7c-a548-43aaae214b51" />
+
+
+
 
 
  ## RESULT
