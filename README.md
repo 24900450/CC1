@@ -42,6 +42,7 @@ This experiment involves creating an AWS account, configuring security settings 
 
 ### IAM User Created
 <img width="1920" height="1080" alt="Screenshot 2026-07-28 092028" src="https://github.com/user-attachments/assets/49826a15-1a46-4551-944d-0f30ba9b930f" />
+
 ### IAM User Permissions
 <img width="1920" height="1080" alt="Screenshot 2026-07-28 092249" src="https://github.com/user-attachments/assets/49c941a6-2f26-4c60-8440-91c2fd68a8f7" />
 <img width="1920" height="1080" alt="Screenshot 2026-07-28 092344" src="https://github.com/user-attachments/assets/905eacd6-d5c6-442c-ae51-e503a60feb33" />
